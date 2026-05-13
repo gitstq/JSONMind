@@ -1,0 +1,76 @@
+{
+  "company": "TechCorp International",
+  "founded": 2010,
+  "active": true,
+  "employees": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "department": "Engineering",
+      "position": "Senior Developer",
+      "salary": 120000,
+      "skills": ["Python", "JavaScript", "Go"],
+      "contact": {
+        "email": "alice@techcorp.com",
+        "phone": "+1-555-0101"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "department": "Sales",
+      "position": "Sales Manager",
+      "salary": 95000,
+      "skills": ["Negotiation", "CRM", "Presentation"],
+      "contact": {
+        "email": "bob@techcorp.com",
+        "phone": "+1-555-0102"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Carol White",
+      "department": "Marketing",
+      "position": "Marketing Director",
+      "salary": 110000,
+      "skills": ["SEO", "Content Strategy", "Analytics"],
+      "contact": {
+        "email": "carol@techcorp.com",
+        "phone": "+1-555-0103"
+      }
+    }
+  ],
+  "locations": {
+    "headquarters": {
+      "city": "San Francisco",
+      "country": "USA",
+      "coordinates": {
+        "lat": 37.7749,
+        "lng": -122.4194
+      }
+    },
+    "branches": [
+      {
+        "city": "London",
+        "country": "UK",
+        "employees_count": 25
+      },
+      {
+        "city": "Singapore",
+        "country": "Singapore",
+        "employees_count": 18
+      }
+    ]
+  },
+  "financials": {
+    "revenue": 50000000,
+    "expenses": 35000000,
+    "profit_margin": 0.30,
+    "currency": "USD"
+  },
+  "metadata": {
+    "last_updated": "2025-05-13T10:00:00Z",
+    "version": "1.0.0",
+    "tags": ["technology", "enterprise", "saas"]
+  }
+}
